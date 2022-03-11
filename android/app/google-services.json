@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399114904245",
+    "project_id": "sitewebmobile-bcd73",
+    "storage_bucket": "sitewebmobile-bcd73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399114904245:android:7e542257c60dc1771514fc",
+        "android_client_info": {
+          "package_name": "com.example.spflutterfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399114904245-ugijel837fkiq8stnht1ua4vtqae8dv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0TH0vCMVqu9U-1DIvVCgmd4nGmjYAwBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399114904245-ugijel837fkiq8stnht1ua4vtqae8dv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
